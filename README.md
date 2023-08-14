@@ -20,7 +20,7 @@ In this challenge I used simple HTML and CSS to create a QR component inline wit
 
 ### Links
 
-- [Live site URL](https://lewis-ingleton.github.io/qr-code-component/)
+- Live link: [lewis-ingleton.github.io/qr-code-component/](https://lewis-ingleton.github.io/qr-code-component/)
 
 
 ### Built with
@@ -31,4 +31,4 @@ In this challenge I used simple HTML and CSS to create a QR component inline wit
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/lewis-ingleton/)
+- LinkedIn: [Lewis Ingleton](https://www.linkedin.com/in/lewis-ingleton/)

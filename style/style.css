@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    font-family: 'Outfit', sans-serif;
     background-color: hsl(220, 15%, 55%);
     display: flex;
     align-items: center;
@@ -15,26 +16,33 @@ body {
 
 h1,
 p {
-    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    width: 90%;
 }
 
 h1 {
     font-weight: 700;
     font-size: 2rem;
+    color: hsl(218, 44%, 22%);
 }
 
 p {
     font-weight: 400;
+    margin-top: 0px;
 }
 
 #card {
     background-color: hsl(0, 0%, 100%);
     padding: 1rem;
-    border-radius: 3%;
+    border-radius: 15px;
     width: 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #card>img {
-    border-radius: 10px;
+    border-radius: 2%;
     width: 100%;
 }

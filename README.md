@@ -1,13 +1,34 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## QR code component
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+- [Author](#author)
 
-[Live link](https://lewis-ingleton.github.io/qr-code-component/) for page build.
+## Overview
 
-## The challenge
+In this challenge I used simple HTML and CSS to create a QR component inline with the provided designs. I used flexbox so that the component is responsive to a variety of screen sizes.
 
-The challenge is to build out this QR code component and get it looking as close to the design as possible.
+### Screenshot
+
+![](./images/final-screenshot.png)
+
+### Links
+
+- [Live site URL](https://lewis-ingleton.github.io/qr-code-component/)
+
+
+### Built with
+
+- Basic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- LinkedIn - [Add your name here](https://www.linkedin.com/in/lewis-ingleton/)

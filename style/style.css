@@ -32,7 +32,7 @@ p {
 #card {
     background-color: hsl(0, 0%, 100%);
     padding: 1.1rem;
-    border-radius: 15px;
+    border-radius: 19px;
     width: 23vw;
     display: flex;
     flex-direction: column;
@@ -42,7 +42,7 @@ p {
 }
 
 #card>img {
-    border-radius: 2%;
+    border-radius: 3%;
     width: 100%;
 }
 

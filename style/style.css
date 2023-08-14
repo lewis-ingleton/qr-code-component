@@ -31,10 +31,10 @@ p {
     background-color: hsl(0, 0%, 100%);
     padding: 1rem;
     border-radius: 3%;
-    width: 30vw;
+    width: 20vw;
 }
 
 #card>img {
     border-radius: 10px;
-    width: auto;
+    width: 100%;
 }
